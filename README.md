@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Naoki Takahashi !
+I'm Naoki Takahashi!
+
+![nemuki's github stats](https://github-readme-stats.vercel.app/api?username=nemuki&theme=react)
 
 <!--
 **nemuki/nemuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
