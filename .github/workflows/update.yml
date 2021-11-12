@@ -20,7 +20,7 @@ jobs:
       run: go install github.com/ikawaha/feedsnippet@latest
 
     - name: Update README.md
-      run: feedsnippet -config feedsnippet.yml -diff -file README.md -verbose
+      run: feedsnippet -config feedsnippet.yml -diff -file README.md
 
     - name: git commit
       run: |
