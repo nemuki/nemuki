@@ -10,6 +10,6 @@
         {{- end }}{{ end -}}
       [{{ .Title }}]({{ .Link }})
     {{ end }}
-  limit: 10
+  limit: 5
   sort_by_published: true
 
