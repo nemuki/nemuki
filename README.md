@@ -2,9 +2,14 @@
 
 I'm Naoki Takahashi!
 
+- 💼 I’m currently working at ASKUL Corporation.
+- 📫 How to reach me `nemuki.dev[at]gmail.com`
+- 📝 I regularly write articles on [zenn.dev](https://zenn.dev/nemuki)
+
 ![nemuki's github stats](https://github-readme-stats.vercel.app/api?username=nemuki&theme=react)
 
-## Recent Posts
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-11-30T00:18:29Z]-->
-* ![](./icon/zenn.png)[Proxy環境下にあるサーバーで JetBrains Gateway の IDE バックエンドをダウンロードする](https://zenn.dev/nemuki/articles/jetbrains-gateway-use-with-proxy)
-<!--[END github.com/ikawaha/feedsnippet]-->
+## ![zenn](./icon/zenn.png) Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
