@@ -6,9 +6,10 @@ I'm Naoki Takahashi!
 - 📫 How to reach me `nemuki.dev[at]gmail.com`
 - 📝 I regularly write articles on [zenn.dev](https://zenn.dev/nemuki)
 
-![nemuki's github stats](https://github-readme-stats.vercel.app/api?username=nemuki&theme=react)
+![nemuki's GitHub stats dark](https://github-readme-stats.vercel.app/api?username=nemuki&count_private=true&theme=react#gh-dark-mode-only)
+![nemuki's GitHub stats light](https://github-readme-stats.vercel.app/api?username=nemuki&count_private=true&theme=react#gh-light-mode-only)
 
-## ![zenn](./icon/zenn.png) Latest Blog Posts
+## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Actions で Detekt を動かして reviewdog に注意させる](https://zenn.dev/nemuki/articles/detekt-reviewdog)
